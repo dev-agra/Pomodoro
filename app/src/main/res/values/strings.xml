@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CalPoMo</string>
+    <string name="go_to_calender">Go to Calender</string>
+    <string name="date">Date</string>
+    <string name="go_to_pomodoro">Go To Pomodoro</string>
+    <string name="again">Again</string>
+    <string name="home">Home</string>
+    <string name="end">End</string>
+    <string name="start">Start</string>
+    <string name="_10_00">10 : 00</string>
+    <string name="today">Today</string>
+    <string name="_35_m">35 M</string>
+    <string name="_60_m">60 M</string>
+    <string name="today_s_achievement">Today\'s achievement :</string>
+    <string name="_0_m">0 M</string>
+    <string name="nothing_is_impossible_the_word_itself_says_i_m_possible">Nothing is impossible, the word itself says “I’m possible”!</string>
+    <string name="if_you_cannot_do_great_things">If you cannot do great things</string>
+    <string name="do_small_things_in_a_great_way">do small things in a great way</string>
+    <string name="_15_m">15 M</string>
+    <string name="_25_m">25 M</string>
+    <string name="_5_m">5 M</string>
+    <string name="go_to_tasks">Go To Tasks</string>
+    <string name="check_the_tasks_completed">Check the Tasks Completed</string>
+    <string name="todo">TODO</string>
+    <string name="hello">Hello</string>
+</resources>
