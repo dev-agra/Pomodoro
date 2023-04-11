@@ -64,10 +64,12 @@ Personalize the app with different themes and colors
 Sync your progress across devices
 
 Contributing
+
+![alt text](https://github.com/dev-agra/Pomodoro/blob/main/ScreenShots/WhatsApp%20Image%202023-04-11%20at%2023.57.483.jpg?raw=true)
+
 We welcome contributions to our project! To contribute, please follow these steps:
 
 Fork the repository
-![alt text](https://github.com/dev-agra/Pomodoro/blob/main/ScreenShots/WhatsApp%20Image%202023-04-11%20at%2023.57.483.jpg?raw=true)
 Create a new branch for your changes
 Make your changes and commit them
 Push your changes to your forked repository
